@@ -1,2 +1,6 @@
-# AngularTaiwan2018-call-for-paper
-用於Call For Paper 用途 Only
+# AngularTaiwan2018 Call For Paper
+
+Angular Taiwan 2018 活動 Call for Papers 申請
+
+---
+
